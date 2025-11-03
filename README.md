@@ -12,6 +12,6 @@ This is a collaborative Python project designed to help beginners solve real-wor
 ### Step 2: Clone Your Fork
 - Clone your forked repository to your local machine:
   ```bash
-  git clone https://github.com/YOUR_USERNAME/the-distinguish-code.git
-  cd the-distinguish-code
+  git clone https://github.com/Distinguish101/the-distinguish-code-python.git
+  cd the-distinguish-code-python
 
